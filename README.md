@@ -24,9 +24,9 @@
 
 ## 🧮 LeetCode Profile
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ahte_6981?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/ahte_6981/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AZ-COOL?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/AZ-COOL/)
 
-**Profile:** [ahte_6981](https://leetcode.com/u/ahte_6981/)
+**Profile:** [AZ-COOL](https://leetcode.com/u/AZ-COOL/)
 
 ---
 
